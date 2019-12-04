@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Campus Recruitment - Company</string>
+    <string name="login_register_text">Login/Register</string>
+    <string name="user_id_text">USER ID</string>
+    <string name="password_button">PASSWORD</string>
+    <string name="sign_in_Button">SIGN IN</string>
+    <string name="sign_up_Button">SIGN UP</string>
+    <string name="view_profile_button">VIEW PROFILE</string>
+    <string name="update_profile_button">UPDATE PROFILE</string>
+    <string name="view_student_details_button">VIEW STUDENT DETAILS</string>
+    <string name="log_out_button">LOG OUT</string>
+    <string name="jobs_button">JOBS</string>
+    <string name="reset_button">RESET</string>
+    <string name="company_name_text">COMPANY NAME</string>
+    <string name="address_text">ADDRESS</string>
+    <string name="city_text">CITY</string>
+    <string name="contact_text">CONTACT</string>
+    <string name="register_button">REGISTER</string>
+    <string name="password_text">PASSWORD</string>
+    <string name="job_title_text">Job Title</string>
+    <string name="job_descrption_text">Job Descrption</string>
+    <string name="job_requirement_text">Job Requirement</string>
+    <string name="key_responsibilities_text">Key Responsibilities</string>
+    <string name="salary_range_text">Salary Range</string>
+    <string name="criteria_percentage_only_text">Criteria (Percentage Only)</string>
+    <string name="save_text">SAVE</string>
+    <string name="clear_text">CLEAR</string>
+    <string name="show_data_text">SHOW DATA</string>
+    <string name="update_button">UPDATE</string>
+</resources>
